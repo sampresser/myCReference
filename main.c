@@ -16,7 +16,7 @@ int main()
     float * const pt; // pt is a constant pointer
     const float * const ptr; //constant pointer to constant value
 
-   
+   printf("test");
 
 }
 
